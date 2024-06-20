@@ -4,6 +4,5 @@ Foi uma surpresa positiva ver como o resultado ficou dinâmico, especialmente po
 
 Confira o projeto e veja por si mesmo: [Página Parallax](https://marllonrc.github.io/Parallax/).
 
-Claro, aqui está o texto com o link personalizado incorporado:
 
 
