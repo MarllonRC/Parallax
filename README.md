@@ -2,4 +2,4 @@ Este projeto serve como um teste inicial com esse efeito, sendo uma oportunidade
 
 Foi uma surpresa positiva ver como o resultado ficou dinâmico, especialmente por ser a minha primeira experiência com esse efeito, sem usar Bootstrap.
 
-Confira o resultado acessando o link: Página Parallax.
+Confira o projeto e veja por si mesmo: Página Parallax.
