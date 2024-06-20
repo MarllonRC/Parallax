@@ -2,4 +2,8 @@ Este projeto serve como um teste inicial com esse efeito, sendo uma oportunidade
 
 Foi uma surpresa positiva ver como o resultado ficou dinâmico, especialmente por ser a minha primeira experiência com esse efeito, sem usar Bootstrap.
 
-Confira o projeto e veja por si mesmo: Página Parallax.
+Confira o projeto e veja por si mesmo: [Página Parallax](https://marllonrc.github.io/Parallax/).
+
+Claro, aqui está o texto com o link personalizado incorporado:
+
+
